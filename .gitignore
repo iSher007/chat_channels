@@ -1,3 +1,2 @@
-env
-chat/migrations
-db.sqlite3
+/env/
+/chat/migrations/
